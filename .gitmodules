@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/mjoksiglandi/mtg-back.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/mjoksiglandi/mtg-front.git
